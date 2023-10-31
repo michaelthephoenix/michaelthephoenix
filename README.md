@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+#### Micheal here
+Currently picking up new skills at [datacamp.com](https://www.datacamp.com/portfolio/nkonomic) <br/>
+Otherwise, how are you doing today... 😄
 <!--
 **michaelthephoenix/michaelthephoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
